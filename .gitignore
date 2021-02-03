@@ -1,0 +1,7 @@
+*.lock
+pkg/**
+target/**
+www/node_modules/**
+www/.bin/**
+www/package-lock.json
+
