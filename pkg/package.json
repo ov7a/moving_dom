@@ -1,0 +1,15 @@
+{
+  "name": "moving_dom",
+  "collaborators": [
+    "ov7a"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "moving_dom_bg.wasm",
+    "moving_dom.js",
+    "moving_dom.d.ts"
+  ],
+  "module": "moving_dom.js",
+  "types": "moving_dom.d.ts",
+  "sideEffects": false
+}
